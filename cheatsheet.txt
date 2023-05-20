@@ -8,9 +8,5 @@ git remote add origin "nombre del repositorio"= enlazar el repositorio
 mkdir=crear carpetas
 touch=crear archivos
 
-mkdir=crear carpetas
-touch=crear archivos
 
-mkdir=crear carpetas
-touch=crear archivos
 
